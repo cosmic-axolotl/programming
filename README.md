@@ -11,7 +11,7 @@ These projects focus on the engineering side — the code that makes science vis
 
 | repo | description | stack |
 |------|-------------|-------|
-| [astro-llm](https://github.com/cosmic-axolotl/programming/tree/main/astro-llm) | a llm for searching astronomical objects using public APIs | HTML/CSS, JS, React, FastAPI |
+| [astro-query](https://github.com/cosmic-axolotl/astro-query#) | a llm for searching astronomical objects using public APIs | HTML/CSS, JS, React, FastAPI |
 | [sci-frontend](#) | scientific UIs, D3.js visualizations, CSS UI kit | HTML/CSS, JS, TypeScript |
 | [astro-react](#) | React dashboards, 3D visualizations | React, Three.js, WebGL |
 | [science-api](#) | REST APIs for astronomical data | FastAPI, Docker, PostgreSQL |
