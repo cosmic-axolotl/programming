@@ -9,13 +9,14 @@ These projects focus on the engineering side — the code that makes science vis
 
 ### repositories
 
-| repo | description | stack |
-|------|-------------|-------|
-| [astro-query](https://github.com/cosmic-axolotl/astro-query#) | a llm for searching astronomical objects using public APIs | HTML/CSS, JS, React, FastAPI |
-| [sci-frontend](#) | scientific UIs, D3.js visualizations, CSS UI kit | HTML/CSS, JS, TypeScript |
-| [astro-react](#) | React dashboards, 3D visualizations | React, Three.js, WebGL |
-| [cpp-astro](#) | high-performance kernels, Python extensions | C++17, pybind11, OpenMP |
-| [hpc-benchmarks](#) | Julia vs Python vs Fortran — real benchmarks | Julia, Python, Fortran |
+| repo | description | stack | status |
+|------|-------------|-------| ------ |
+| [astro-query](https://github.com/cosmic-axolotl/astro-query#) | a llm for searching astronomical objects using public APIs | HTML/CSS, JS, React, FastAPI | done! |
+| [redshift-calculator](https://github.com/cosmic-axolotl/redshift-calculator) | a calculator for redshifts | on going |
+| [sci-frontend](#) | scientific UIs, D3.js visualizations, CSS UI kit | HTML/CSS, JS, TypeScript | coming soon |
+| [astro-react](#) | React dashboards, 3D visualizations | React, Three.js, WebGL | coming soon |
+| [cpp-astro](#) | high-performance kernels, Python extensions | C++17, pybind11, OpenMP | coming soon |
+| [hpc-benchmarks](#) | Julia vs Python vs Fortran — real benchmarks | Julia, Python, Fortran | coming soon |
 
 ---
 
